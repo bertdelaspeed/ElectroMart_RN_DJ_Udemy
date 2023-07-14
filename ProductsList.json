@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "smartphone",
+    "name": "Apple iPhone 13 Pro Max",
+    "description": "Basic description of an item",
+    "price": 1099.99,
+    "image": "https://images.unsplash.com/photo-1632505084030-9b97405cb28d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "category": "smartphone",
+    "name": "Samsung Galaxy S21 Ultra",
+    "description": "Basic description of an item",
+    "price": 999.99,
+    "image": "https://images.unsplash.com/photo-1610792516286-524726503fb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 3,
+    "category": "game",
+    "name": "Dell XPS 13",
+    "description": "Basic description of an item",
+    "price": 1199.99,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
+  },
+  {
+    "id": 4,
+    "category": "game",
+    "name": "Sony PlayStation 5",
+    "description": "Basic description of an item",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
+  },
+  {
+    "id": 5,
+    "category": "tv",
+    "name": "LG CX 55 inch OLED TV",
+    "description": "Basic description of an item",
+    "price": 1499.99,
+    "image": "https://www.pexels.com/photo/flat-screen-television-1201996/"
+  }
+]

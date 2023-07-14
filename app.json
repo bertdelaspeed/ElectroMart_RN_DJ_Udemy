@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "ElectroMart",
+    "slug": "electromartudemy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/EM_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/EM_logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bertdelaspeed.electromartudemy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "449d90bc-ce0f-4332-bf3e-53baa1ef58b2"
+      }
+    },
+    "owner": "bertdelaspeed "
+  }
+}
